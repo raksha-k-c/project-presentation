@@ -1,4 +1,4 @@
-# 🧬 Immune System – PowerPoint Presentation
+# 🧬 Immune System – Medical Electronics Perspective
 
 This repository contains a PowerPoint presentation created by **Raksha K C**, focusing on the **human immune system**. The slides explore its components, types, mechanisms of defense, and relevance to biomedical technology.
 
